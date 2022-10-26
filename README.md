@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Md Alam Hossain a Full stack developer.
 - 👀 I’m interested in C#, .NET, Javascript, ReactJs, and VueJs
-- 🌱 I’m currently work as Software Developer for Sun IT Limited, Rajshahi, Bangladesh.
+- 🌱 I’m currently work as Software Developer for Basic Starter Limited, Dhaka, Bangladesh.
